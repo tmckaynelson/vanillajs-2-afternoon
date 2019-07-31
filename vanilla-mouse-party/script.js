@@ -45,7 +45,7 @@ function draw() {
         })
 
         container.appendChild(newDiv)
-    }, 1000)
+    }, 50)
 }
 
 window.addEventListener('mouseover', () => {
